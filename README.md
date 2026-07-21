@@ -1,36 +1,82 @@
 <div align="center">
 
-# 👋 Hi, I'm Yash Raj Singh
+# 👋 Hey, I'm Yash Raj Singh
 
-### 🚀 AI & Data Science Student | Python Developer | Machine Learning Enthusiast
+### 🎓 B.Tech CSE (AI & Data Science) Student | 📊 Aspiring Data Scientist
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Always+Building+Projects;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Aspiring+Data+Scientist;Exploring+Data+Science+%26+Machine+Learning;Python+%7C+SQL+%7C+Data+Analysis;Learning+Every+Day+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=yashraj-glitch438&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
+
+💡 I am a passionate **B.Tech CSE (AI & Data Science)** student with a growing interest in **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy exploring data, uncovering meaningful insights, and applying technology to solve real-world problems. My focus is on continuously improving my analytical thinking, programming skills, and practical knowledge through hands-on projects.
 
 - 🎓 B.Tech CSE (AI & Data Science)
-- 🌱 Currently learning Machine Learning & Deep Learning
-- 💻 Passionate about AI, Python and Software Development
-- 🚀 Building real-world AI projects
-- 🎯 Goal: Become an AI/ML Engineer
+- 📊 Exploring Data Science, Machine Learning & Artificial Intelligence
+- 🐍 Learning Python, SQL, Statistics & Data Analysis
+- 📈 Exploring Data Visualization & Predictive Analytics
+- 🧠 Passionate about solving real-world problems using data
+- 🚀 Building practical Data Science & Machine Learning projects
+- 📚 Continuously learning new technologies and best practices
+- 🎯 **Career Goal:** Become a Data Scientist and build impactful AI-powered solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css,flask,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode,html,css,flask"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🌱 Currently Exploring
+
+🔹 Data Science
+
+🔹 Machine Learning
+
+🔹 Artificial Intelligence
+
+🔹 Python
+
+🔹 SQL
+
+🔹 Statistics
+
+🔹 Data Analysis
+
+🔹 Data Visualization
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 Car Price Prediction
+
+Machine Learning project that predicts car prices using Python, Pandas, Scikit-learn and Flask.
+
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Flask
+
+---
+
+## 📈 More Projects Coming Soon
+
+- 📊 Student Performance Prediction
+- 🏠 House Price Prediction
+- 📧 Spam Email Classifier
+- ❤️ Heart Disease Prediction
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -48,7 +94,7 @@
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -68,29 +114,16 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🚗 Car Price Prediction
-✔ Machine Learning Model using Python & Scikit-learn
-
-### 🤖 AI Chatbot *(Coming Soon)*
-
-### 🏠 House Price Prediction *(Coming Soon)*
-
-### 📚 Student Management System *(Coming Soon)*
-
----
-
-# 💻 Coding Profiles
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/yashraj-glitch438">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:yash8971@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -99,8 +132,10 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## 💭 Quote
 
-![](https://komarev.com/ghpvc/?username=yashraj-glitch438&style=for-the-badge)
+> **"Without data, you're just another person with an opinion."** — W. Edwards Deming
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
