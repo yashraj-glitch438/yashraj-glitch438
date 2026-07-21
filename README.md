@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Aspiring+Data+Scientist;Exploring+Data+Science+%26+Machine+Learning;Python+%7C+SQL+%7C+Data+Analysis;Learning+Every+Day+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=yashraj-glitch438&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<h3>👋 Welcome to My GitHub Profile</h3>
 
 </div>
 
